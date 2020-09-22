@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: demo
-        image: 76591745/service:v1
+        image: joselevano1/appbackend:v1
         ports:
         - containerPort: 8080
